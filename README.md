@@ -2,9 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wellintonpiassa&label=Profile%20views&color=1ae40c&style=flat-square" alt="wellintonpiassa" /> </p>
 
 <ul>
-    <li> 📫 e-mail: <a>**wellintonpiassa@hotmail.com**<a/>
-    <li> 📫 Institutional e-mail: <a>**wellinton.piassa@uel.br**<a/>
-
+    <li> 📫 e-mail: **wellintonpiassa@hotmail.com**</li>
+    <li> 📫 Institutional e-mail: **wellinton.piassa@uel.br**</li>
+</ul>
+        
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wellinton-piassa-56a44b195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wellinton-piassa-56a44b195" height="30" width="40" /></a>

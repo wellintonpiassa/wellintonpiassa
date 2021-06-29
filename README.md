@@ -1,9 +1,9 @@
-<h1 align="center">Hey, I'm Wellinton Piassa!</h1>
+<h2 align="left">Hey, I'm Wellinton Piassa!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wellintonpiassa&label=Profile%20views&color=1ae40c&style=flat-square" alt="wellintonpiassa" /> </p>
 
-- 📫 main email: **wellintonpiassa@hotmail.com**
-
-- 📫 Institutional email: **wellinton.piassa@uel.br**
+<ul>
+    <li> 📫 e-mail: <a>**wellintonpiassa@hotmail.com**<a/>
+    <li> 📫 Institutional e-mail: <a>**wellinton.piassa@uel.br**<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

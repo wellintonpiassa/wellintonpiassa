@@ -1,1 +1,1 @@
-<img align="left" width="100%" height="140px" alt="GIF" src="./images/gif_black.gif" />
+

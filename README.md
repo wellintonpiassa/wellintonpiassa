@@ -1,5 +1,5 @@
 
-<img align="right" src="https://user-images.githubusercontent.com/51731873/124046379-36cd5b00-d9e8-11eb-91d9-e6333e4f4444.png" alt="a rocket on launch" width=55% height=55% />
+<img align="right" src="./images/white-cat.png" alt="white-github-cat" width=55% height=55% />
 
 ### Hi, I'm Wellinton and welcome to my Github!
 

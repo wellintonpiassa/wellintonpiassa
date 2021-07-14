@@ -8,7 +8,7 @@
 - 🔭 **Learning a little more each day**
 - 📫 **You can reach me on:**
 
-    <a href="https://www.linkedin.com/in/wellinton-piassa/">
+    <a href="www.linkedin.com/in/wellinton-piassa">
         <img src="https://img.shields.io/badge/Wellinton Piassa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
     </a> 
     <img src="https://img.shields.io/badge/wellintonpiassa@hotmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">

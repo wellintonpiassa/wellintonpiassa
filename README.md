@@ -1,5 +1,5 @@
 
-<img align="right" src="./images/white-cat.png" alt="white-github-cat" width=55% height=55% />
+<img align="right" src="./images/silver-git.png" alt="silver-github-cat" width=55% height=55% />
 
 # Hi, I'm Wellinton and welcome to my Github!
 

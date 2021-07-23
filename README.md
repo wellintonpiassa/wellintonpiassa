@@ -11,8 +11,8 @@
     <a href="https://www.linkedin.com/in/wellinton-piassa/">
         <img src="https://img.shields.io/badge/Wellinton Piassa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
     </a> 
-    <img src="https://img.shields.io/badge/wellintonpiassa@hotmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">
-    <img src="https://img.shields.io/badge/wellinton.piassa@uel.br-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">
+    <img src="icons_png/email.png">
+    <img src="icons_png/email_inst.png">
 
 - 💻 **Languages and tools**
 
